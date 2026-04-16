@@ -65,3 +65,9 @@ The project demonstrates the full ML pipeline including:
 ```bash
 git clone https://github.com/kadiwala1234/Customer-Review-Sentiment-Analysis.git
 cd Customer-Review-Sentiment-Analysis
+
+**### Step 2: Open in Google Colab**
+- Upload the notebook (.ipynb)
+
+**### Step 3: Run All Cells**
+Execute all cells sequentially
